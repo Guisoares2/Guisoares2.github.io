@@ -1,0 +1,27 @@
+.banner {
+    box-sizing: border-box;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../../Assets/IMG/Banner\ portfolio.jpg);
+    background-position: center;
+    height: 570px;
+    border-bottom: 10px solid black;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+}
+
+.banner .box{
+    margin-bottom: 30px;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+    
+}
