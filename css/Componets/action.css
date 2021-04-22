@@ -1,0 +1,19 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color:black;
+    font-family: "Fira Sans";
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.action::before {
+    content: "";
+    background-color: darkblue;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+    border-radius: 100%;
+}
