@@ -1,12 +1,12 @@
 
-.title {
+.main-title {
     font-family: 'Dancing Script';
     color: aquamarine;
     font-size: 45px;
     text-shadow: 3px 3px 4px aqua;
 }
 
-.title.-second {
+.main-title.-second {
     color: black;
     text-shadow: 3px 3px 2px aqua;
     text-align: center;
