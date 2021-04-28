@@ -1,4 +1,4 @@
-.box {
+.main-box {
     display: inline-block;
     background-color: rgb(0, 0, 73);
     border-radius: 25px;
@@ -7,9 +7,9 @@
     padding: 15px 70px;
 }
 
-.box h1{
+.main-box h1{
     margin-bottom: 4px;
 }
-.box h2{
+.main-box h2{
     margin-top: 4px;
 }
