@@ -1,15 +1,14 @@
 .skill {
     align-items: center;
     display: flex;
-    font-family: 'Dancing Script';
+    font-family: 'Patrick Hand';
     color: black;
-    font-size: 25px;
-    -webkit-text-stroke: medium;
+    font-size: 30px;
 }
 
 .skill .icon {
     margin-right: 25px;
-    width: 70px;
+    width: 65.5px;
 }
 
 .skill .right {

@@ -12,6 +12,11 @@
     margin-bottom: 20px;
 
 }
+.wrapper-skill .skill:nth-child(even) {
+    
+    margin-bottom: 20px;
+
+}
 
 .wrapper-skill .progress-bar{
     width: 280px;
