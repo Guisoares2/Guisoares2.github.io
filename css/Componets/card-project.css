@@ -2,16 +2,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aquamarine;
+    background-color: black;
     width: 250px;
     height: 250px;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 5px 5px 12px cyan;
     border-radius: 100%;
 
 }
 
 .card-project.-var {
     background-color: darkblue;
+    
 }
 
 .logo1 {

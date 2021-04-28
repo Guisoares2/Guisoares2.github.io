@@ -10,3 +10,8 @@
 .section .main-title {
     margin-bottom: 30px;
 }
+
+.section.-bgDark {
+    background-color: rgb(0 0 41);
+    border-color: aquamarine;
+}
