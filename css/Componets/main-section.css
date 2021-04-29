@@ -13,5 +13,10 @@
 
 .main-section.-bgDark {
     background-color: rgb(0 0 41);
-    border-color: aquamarine;
+    border-color: black;
+}
+
+.main-section.-bgAqua {
+    background-color: rgb(94 221 255);
+    border-color: black;
 }
